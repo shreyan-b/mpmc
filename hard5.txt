@@ -2,8 +2,7 @@
 #include <Stdio.h>  
 #include "lcd.h" 
 unsigned int adc_value=0,temp_adc=0; 
-f
- loat adc_ip; 
+float adc_ip; 
 char var[15],var1[15]; 
 char *ptr2; 
 char arr[]= "ADC O/P= "; 
